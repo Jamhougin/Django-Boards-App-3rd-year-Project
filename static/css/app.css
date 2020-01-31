@@ -4,4 +4,6 @@
 
 body {
   background-color:rgb(239, 238, 244);
+  background-image: url(../img/what-the-hex-dark.png);
+  color: #2F64A6;
 }
